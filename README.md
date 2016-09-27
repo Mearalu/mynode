@@ -1,2 +1,2 @@
 # mynode
-[DataTables](dataTables) page for details
+[DataTables](dataTables.md) page for details
